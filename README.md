@@ -7,8 +7,8 @@ Config files for my GitHub profile.
 
 ## 💫 About Me:
 👨🏻‍🔬 Passionate software engineer with over 2 years of experience in developing web applications  
-🔭 Building my machine learning skills through hands-on projects and experiments, turning code into intelligence!
-📖 Passionate about distributed systems and scaling up projects efficiently
+🔭 Building my machine learning skills through hands-on projects and experiments, turning code into intelligence!    
+📖 Passionate about distributed systems and scaling up projects efficiently   
 🧠 Excited to crack dynamic programming puzzles on LeetCode 
 
 <!---
